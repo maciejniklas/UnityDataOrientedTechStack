@@ -366,8 +366,9 @@ MonoBehaviour:
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
-  gridSize: 0
-  spread: 0
+  gridSize: 100
+  spread: 5
+  speedRange: {x: 5, y: 7.5}
 --- !u!4 &1946328356
 Transform:
   m_ObjectHideFlags: 0
