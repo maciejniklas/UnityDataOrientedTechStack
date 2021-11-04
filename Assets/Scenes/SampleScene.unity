@@ -361,11 +361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cbf1f1e7e634d09beecc35998dbafb9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  personPrefab:
-    m_AssetGUID: 2171a255068dbb2469ebb45dba82d4d8
-    m_SubObjectName: 
-    m_SubObjectType: 
-    m_EditorAssetChanged: 0
+  personPrefab: {fileID: 6711151360202909206, guid: 2171a255068dbb2469ebb45dba82d4d8, type: 3}
   gridSize: 100
   spread: 5
   speedRange: {x: 5, y: 7.5}
